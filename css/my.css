@@ -10,3 +10,12 @@
 .intro-header-fullheight {
     background-size: auto 100%;
 }
+
+
+.navbar-fixed-cade {
+    z-index:3;
+    font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
