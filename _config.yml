@@ -1,0 +1,23 @@
+# Site settings
+title: leconte
+description: "Miniature summit with Jetson TX2 nodes to demonstrate GPU accelerated computing."
+
+header-img: img/home-bg.jpg
+email: brownce@ornl.gov
+baseurl: ""
+url: "http://ornl-leconte.github.io"
+
+accounts:
+  github: ornl-leconte
+
+permalink: /blog/:title
+
+markdown: kramdown
+collections:
+  guides:
+    output: true
+    permalink: /guides/:title/
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
