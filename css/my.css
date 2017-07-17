@@ -10,3 +10,8 @@
 .intro-header-fullheight {
     background-size: auto 100%;
 }
+
+/* to offset the navbar */
+body {
+    padding-top: 50px;
+}
