@@ -6,4 +6,10 @@ author: "Cade Brown"
 header-img: "img/jetson_TX2.jpg"
 ---
 
-[leconte]({{site.baseurl}}) is a project under the OLCF to demonstrate the usefulness of multiprocessing and GPU accelerated computing. Essentially, leconte is a cluster computer with 8 Jetson TX2 nodes, each having a multicore CPU and a single GPU. They communicate across a local area network.
+[leconte](http://ornl-lecont.github.io/) is a project under the OLCF to demonstrate the usefulness of multiprocessing and GPU accelerated computing. Essentially, leconte is a cluster computer with 8 Jetson TX2 nodes, each having a multicore CPU and a single GPU. They communicate across a local area network.
+
+This project is a small scale computer meant to demonstrate the performance of OLCF's [upcoming summit supercomputer](https://www.olcf.ornl.gov/summit/). It shows the power of GPU accelerated computing against traditional CPU programs, as well as the effects of parallelization. You can actively change the number of CPU cores working on a computation, or switch between CPU and GPU workloads with controller buttons.
+
+Users touring facilities with a leconte cluster can pick up a controller and explore different types of fractals, using our program [fractalexplorer](https://github.com/ornl-leconte/fractalexplorer/). Even on a single Jetson, most fractals are rendered at a smooth 20+ fps, but using all 8, even the more difficult fractals are easily rendered at 40-50 fps.
+
+The name leconte comes from a [mountain in Tennessee](https://en.wikipedia.org/wiki/Mount_Le_Conte_(Tennessee)), so that it relates to the theme of mountains in the summit projects. Our project title may be stylized like `leconte` or `LeConte`, but not `Le Conte`.
