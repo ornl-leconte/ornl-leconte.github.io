@@ -1,6 +1,6 @@
 ---
 layout: page
-header-img: img/logo/lecontelogo1024text.png
+header-img: img/logo/svg-notext.svg
 ---
 
 {% for post in site.posts %}
