@@ -1,6 +1,6 @@
 ---
 layout: page
-header-img: img/jetson_TX2.jpg
+header-img: img/logo/lecontelogo1024text.png
 ---
 
 {% for post in site.posts %}
