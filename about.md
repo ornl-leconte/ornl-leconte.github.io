@@ -5,3 +5,7 @@ description: "Additional info and FAQs about leconte"
 header-img: "img/ornl-logo.png"
 fullheight: true
 ---
+
+For info on the cluster computer, see [this post]({{site.baseurl}}blog/what-is-leconte).
+
+The leconte project involves ORNL summer interns at the OLCF. You can see who all is involved [here]({{site.baseurl}}contact).
