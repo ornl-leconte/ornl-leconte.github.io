@@ -14,9 +14,10 @@ header-img: img/logo/svg-notext.svg
         </h3>
         {% endif %}
     </a>
-    <!--
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
-    !-->
+
+    <!--  on {{ post.date | date: "%B %-d, %Y" }} -->
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</p>
+
 </div>
 <hr>
 {% endfor %}
