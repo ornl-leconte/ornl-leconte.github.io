@@ -1,15 +1,17 @@
-# ornl-leconte.github.io
+# simplesummit.github.io
 
-This is a website for guides, research, and other pages related to [leconte](http://github.com/ornl-leconte/).
+THIS PROJECT WAS RENAMED, from `simple summit` to `simple summit`. So please pardon any errors that list it as "simple summit"
+
+This is a website for guides, research, and other pages related to [simple summit](http://github.com/simplesummit/).
 
 It features:
-  * technical descriptions of all parts of leconte
-  * how to build an identical leconte
-  * how to use/operate leconte programs (using a controller, keyboard, etc)
-  * how to compile/download leconte programs for personal computers (such as [fractalexplorer](http://github.com/ornl-leconte/fractalexplorer))
+  * technical descriptions of all parts of simple summit
+  * how to build an identical simple summt
+  * how to use/operate simple summit programs (using a controller, keyboard, etc)
+  * how to compile/download simple summit programs for personal computers (such as [fractalexplorer](http://github.com/simplesummit/fractalexplorer))
   * how the programs work, complete with diagrams
 
-See it in action: [ornl-leconte.github.io](http://ornl-leconte.github.io)
+See it in action: [simplesummit.github.io](http://simplesummit.github.io)
 
 ## Running/Building
 

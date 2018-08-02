@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Initial Jetson Setup
-subtitle: First steps to set up a Jetson TX2 for LeConte
+subtitle: First steps to set up a Jetson TX2 for Simple Summit
 author: "Ben Klein"
 ---
 
 So you've got a Jetson TX2 and you're not quite ready to go?
 
-Here's a tutorial on getting your new TX2 set up and ready to go in a LeConte cluster!
+Here's a tutorial on getting your new TX2 set up and ready to go in a Simple Summit cluster!
 
 ## Foreword
 

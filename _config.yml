@@ -1,14 +1,14 @@
 # Site settings
-title: leconte
+title: Simple Summit
 description: "Miniature summit with Jetson TX2 nodes to demonstrate GPU accelerated computing."
 
 header-img: img/home-bg.jpg
 email: brownce@ornl.gov
 baseurl: ""
-url: "http://ornl-leconte.github.io"
+url: "http://simplesummit.github.io"
 
 accounts:
-  github: ornl-leconte
+  github: simplesummit
 
 permalink: /blog/:title
 
