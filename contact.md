@@ -7,7 +7,7 @@ header-img: "img/contact-bg.jpg"
 
 People involved:
   * Jim Rogers, *Project PI*, &lt;<jrogers@ornl.gov>&gt;
-  * Ben Klein, *Project Coordinator*, &lt;<kleinbp@ornl.gov>&gt;
+  * Ben Klein, *Previous Project Coordinator*, &lt;<robobenklein@gmail.com>&gt;
   * Cade Brown, *Lead Application Developer*, &lt;<cade@cade.site>&gt;
   * Thomas Hill, *Lead of Design and Fabrication*, &lt;<thill5220@gmail.com>&gt;
   * Gregory Croisdale, *Project Organizer*
