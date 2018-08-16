@@ -1,5 +1,5 @@
 # Site settings
-title: Simple Summit
+title: SimpleSummit
 description: "Miniature summit with Jetson TX2 nodes to demonstrate GPU accelerated computing."
 
 header-img: img/home-bg.jpg

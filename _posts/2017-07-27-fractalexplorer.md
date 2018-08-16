@@ -9,7 +9,7 @@ header-img: "img/fractal_1.png"
 
 <img src="{{site.baseurl}}/img/fractal_0.png"/>
 
-For Simple Summit, we needed a program to demonstrate multi-node computing, show the impressive power that GPUs possess, and create a visually interesting and interactive user experience.
+For SimpleSummit, we needed a program to demonstrate multi-node computing, show the impressive power that GPUs possess, and create a visually interesting and interactive user experience.
 
 
 ## What are fractals?
@@ -27,7 +27,7 @@ To understand how this computations work, you need to know what a [complex numbe
 You will notice bands of color that start as a circle outline, and slowly approximate a complex shape. The complex shape it approaches is precisely the set of numbers that never get larger than our radius, $$16$$, no matter how many times $$z=z^{2}+c$$ is ran. Each time the color band changes, that means the points inside that band take one more iteration than the next outermost layer. So, points in the outer purple color may take $$3$$ iterations of $$z=z^{2}+c$$ before $$\lvert z \rvert > 16$$, points in the brown color take $$4$$ iterations, points in light green take $$5$$ iterations, and so on, until the innermost shape that is brown again. For these points, the absolute value of $$z$$ does not get larger than $$16$$ within the maximum iterations (which is $$12$$) of evaluating $$z=z^{2}+c$$. If we re-run with a larger number of iterations, say $$100$$, the innermost group of pixels will get slightly smaller, but will still approach the Mandelbrot set exactly.
 
 
-Calculating and rendering fractals, a very difficult computational problem, is well suited for GPUs and distributed workloads. Each pixel on the screen can be computed independently of all others, so the GPU can launch a kernel to compute all pixels at once, instead of waiting on pixels to finish. And, each node of the Simple Summit system can compute just a part of the screen, so that the workload is further parallelized.
+Calculating and rendering fractals, a very difficult computational problem, is well suited for GPUs and distributed workloads. Each pixel on the screen can be computed independently of all others, so the GPU can launch a kernel to compute all pixels at once, instead of waiting on pixels to finish. And, each node of the SimpleSummit system can compute just a part of the screen, so that the workload is further parallelized.
 
 ## Fractals that we use
 

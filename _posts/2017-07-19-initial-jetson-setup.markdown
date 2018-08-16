@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Initial Jetson Setup
-subtitle: First steps to set up a Jetson TX2 for Simple Summit
+subtitle: First steps to set up a Jetson TX2 for SimpleSummit
 author: "Ben Klein"
 ---
 
 So you've got a Jetson TX2 and you're not quite ready to go?
 
-Here's a tutorial on getting your new TX2 set up and ready to go in a Simple Summit cluster!
+Here's a tutorial on getting your new TX2 set up and ready to go in a SimpleSummit cluster!
 
 ## Foreword
 

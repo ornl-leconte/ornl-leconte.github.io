@@ -1,14 +1,14 @@
 # simplesummit.github.io
 
-THIS PROJECT WAS RENAMED, from `simple summit` to `simple summit`. So please pardon any errors that list it as "simple summit"
+THIS PROJECT WAS RENAMED, from `SimpleSummit` to `SimpleSummit`. So please pardon any errors that list it as "SimpleSummit"
 
-This is a website for guides, research, and other pages related to [simple summit](http://github.com/simplesummit/).
+This is a website for guides, research, and other pages related to [SimpleSummit](http://github.com/simplesummit/).
 
 It features:
-  * technical descriptions of all parts of simple summit
+  * technical descriptions of all parts of SimpleSummit
   * how to build an identical simple summt
-  * how to use/operate simple summit programs (using a controller, keyboard, etc)
-  * how to compile/download simple summit programs for personal computers (such as [fractalexplorer](http://github.com/simplesummit/fractalexplorer))
+  * how to use/operate SimpleSummit programs (using a controller, keyboard, etc)
+  * how to compile/download SimpleSummit programs for personal computers (such as [fractalexplorer](http://github.com/simplesummit/fractalexplorer))
   * how the programs work, complete with diagrams
 
 See it in action: [simplesummit.github.io](http://simplesummit.github.io)
